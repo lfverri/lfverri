@@ -3,7 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfverri&theme=github_dark_dimmed&show_icons=true)
 
 
-## 🚀 Minhas Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
