@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,angular,java,spring,python,docker,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=angular,java,spring,python,fastapi,go,docker,mysql,postgres" />
   </a>
 </p>
 
